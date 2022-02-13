@@ -1,0 +1,5 @@
+PAGE_ID = ""
+APP_ID = ""
+VERIFY_TOKEN = ""
+APP_SECRET = ""
+PAGE_ACCESS_TOKEN = ""
